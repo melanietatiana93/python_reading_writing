@@ -14,5 +14,6 @@ Next, the script reopens the file, this time in write mode using the "w" flag. I
 Overall, this project serves as a useful introduction to working with text files in Python and demonstrates some of the basic file I/O operations available in the language.
 
 
-![Imagen ilustrativa de mi proyecto]([https://byspel.com/wp-content/uploads/2018/12/Python.jpg](https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1677584655118-write%28%29%20Function%20in%20Python.jpg)
+
+![Imagen ilustrativa de mi proyecto](https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1677584655118-write%28%29%20Function%20in%20Python.jpg)
 
